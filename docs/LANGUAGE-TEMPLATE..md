@@ -1,46 +1,63 @@
-# Exercism Labs
+# LANGUAGE_NAME Exercism Progress
 
-A working repository for tracking my progress through the programming-language tracks and exercises on [Exercism](https://exercism.org/).
+## Track Summary
 
-## Language Tracks
+| Item | Value |
+|---|---:|
+| Track | LANGUAGE_NAME |
+| Exercises currently stored | 0 |
+| Solution directory | [`solutions/LANGUAGE_SLUG`](../solutions/LANGUAGE_SLUG) |
+| Status | In progress |
 
-| Language | Progress document | Solutions |
-|---|---|---|
-| JavaScript | [JavaScript Progress](docs/javascript.md) | [`solutions/javascript`](solutions/javascript) |
+## Goals
 
-## Repository Structure
+- Define the main reason for studying this language.
+- Identify the syntax, paradigms, or tooling to practice.
+- Capture reusable lessons from completed exercises.
 
-```text
-.
-├── README.md
-├── docs/
-│   ├── javascript.md
-│   └── LANGUAGE-TEMPLATE.md
-└── solutions/
-    └── javascript/
-        └── <exercise-name>/
+## Exercise Log
+
+| # | Exercise | Date | Status | Concepts / Notes |
+|---:|---|---|---|---|
+| 1 | [Exercise Name](../solutions/LANGUAGE_SLUG/exercise-slug) | YYYY-MM-DD | Completed | Key lesson |
+
+## Concepts Practiced
+
+### Fundamentals
+
+- Add concepts here.
+
+### Data Structures
+
+- Add concepts here.
+
+### Functions and Control Flow
+
+- Add concepts here.
+
+### Language-Specific Features
+
+- Add concepts here.
+
+## Lessons and Patterns
+
+Use this section for explanations, examples, and patterns worth retaining.
+
+## Useful Commands
+
+```bash
+# Download an exercise
+exercism download --track=LANGUAGE_SLUG --exercise=EXERCISE_SLUG
+
+# Run the language's tests
+# Replace this line with the appropriate command.
+
+# Submit a solution
+exercism submit PATH_TO_SOLUTION_FILE
 ```
 
-Each language has:
+## Next Steps
 
-- a solution directory under `solutions/<language>/`
-- a progress document under `docs/<language>.md`
-- a table recording completed exercises, concepts practiced, and notes
-
-## Adding Another Language
-
-1. Create the solution directory:
-
-   ```bash
-   mkdir -p solutions/<language>
-   ```
-
-2. Copy the documentation template:
-
-   ```bash
-   cp docs/LANGUAGE-TEMPLATE.md docs/<language>.md
-   ```
-
-3. Add the new language to the **Language Tracks** table above.
-
-4. Update the language document whenever an exercise is completed.
+- Add the next exercise.
+- Record completion dates.
+- Capture at least one useful takeaway per exercise.
