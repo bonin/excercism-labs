@@ -39,7 +39,7 @@
 | 17 | [Mixed Juices](../solutions/javascript/mixed-juices) | Completed | Switch statements, loops, arrays |
 | 18 | [Poetry Club Door Policy](../solutions/javascript/poetry-club-door-policy) | Completed | String indexing and slicing |
 | 19 | [Vehicle Purchase](../solutions/javascript/vehicle-purchase) | Completed | Comparisons and conditional statements |
-| 20 | [Elyse's Analytic Enchantments](../solutions/javascript/elyses-analytic-enchantments) | Verify | Add or remove this row based on repository contents |
+| 20 | [Elyse's Analytic Enchantments](../solutions/javascript/elyses-enchantments) | Verify | Add or remove this row based on repository contents |
 
 > The repository page exposed 20 exercise directories, but only 19 names were visible in the initial directory listing. Verify the final exercise name locally and replace the placeholder row above.
 
